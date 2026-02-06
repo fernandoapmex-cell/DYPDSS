@@ -11,12 +11,14 @@
             "id": "467cc3abc59794a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "picoCTF/GeneralSkills/preuba.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "preuba"
             }
           }
         ]
@@ -184,6 +186,7 @@
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
+    "picoCTF/GeneralSkills/preuba.md",
     "hola.md",
     "picoCTF/GeneralSkills/1 - Lets Warm Up.md",
     "picoCTF/GeneralSkills",
