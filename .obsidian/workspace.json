@@ -11,10 +11,12 @@
             "id": "467cc3abc59794a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -180,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f8a4c63e9c2ca63",
+  "active": "467cc3abc59794a0",
   "lastOpenFiles": [
     "hola.md",
     "picoCTF/GeneralSkills/1 - Lets Warm Up.md",
