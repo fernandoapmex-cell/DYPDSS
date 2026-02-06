@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nota de prueba.md",
+                "file": "picoCTF/GeneralSkills/1.- Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nota de prueba"
+              "title": "1.- Lets Warm Up"
             }
           }
         ]
@@ -184,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "467cc3abc59794a0",
+  "active": "4f8a4c63e9c2ca63",
   "lastOpenFiles": [
     "README.md",
     "nota de prueba.md",
