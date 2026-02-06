@@ -1,16 +1,6 @@
-## Nombre de Reto
+# Descripción
 
+# Solución 
 
-## Descripción
-
-
-
-## Solución
-
-
-
-## Notas
-
-
-
-## Referencias
+# Notas
+# Referencias
