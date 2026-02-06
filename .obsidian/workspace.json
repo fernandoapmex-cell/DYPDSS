@@ -11,12 +11,14 @@
             "id": "467cc3abc59794a0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ]
@@ -182,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f8a4c63e9c2ca63",
+  "active": "467cc3abc59794a0",
   "lastOpenFiles": [
+    "README.md.md",
     "picoCTF/GeneralSkills/preuba.md",
     "hola.md",
     "picoCTF/GeneralSkills/1 - Lets Warm Up.md",
