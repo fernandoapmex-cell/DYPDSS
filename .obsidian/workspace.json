@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/Level 4 → Level 5.md",
+                "file": "bandit/Level 5 → Level 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 4 → Level 5"
+              "title": "Level 5 → Level 6"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
-    "bandit/Level 0.md",
     "bandit/Level 4 → Level 5.md",
+    "bandit/Level 5 → Level 6.md",
+    "bandit/Level 0.md",
     "bandit/Level 3 → Level 4.md",
     "bandit/Level 2 → Level 3.md",
     "README.md",
@@ -216,7 +217,6 @@
     "picoCTF/GeneralSkills",
     "welcome.md",
     "picoCTF/Untitled.md",
-    "picoCTF/plantilla.md",
     "Untitled.base",
     "picoCTF/General Skills",
     "picoCTF"
