@@ -5,6 +5,8 @@ The password for the next level is stored **somewhere on the server** and has 
 - owned by group bandit6
 - 33 bytes in size
 # Solución 
+```
 
+```
 # Notas
 # Referencias
