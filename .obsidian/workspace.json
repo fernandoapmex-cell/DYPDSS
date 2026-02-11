@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/16.-Tab, Tab, Attack.md",
+                "file": "picoCTF/GeneralSkills/17.- Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16.-Tab, Tab, Attack"
+              "title": "17.- Magikarp Ground Mission"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/15.-useless.md",
     "picoCTF/GeneralSkills/16.-Tab, Tab, Attack.md",
+    "picoCTF/GeneralSkills/17.- Magikarp Ground Mission.md",
+    "picoCTF/GeneralSkills/15.-useless.md",
     "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "files-practicas/practica.txt.md",
     "files-practicas/static",
@@ -218,7 +219,6 @@
     "picoCTF/GeneralSkills/8.- plumbing.md",
     "picoCTF/GeneralSkills/4.- Bases.md",
     "picoCTF/GeneralSkills/5.- First Grep.md",
-    "picoCTF/GeneralSkills/6.- Obedient Cat.md",
     "Pasted image 20260206141809.png",
     "picoCTF/GeneralSkills",
     "Untitled.base",
