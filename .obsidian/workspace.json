@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/15.-useless.md",
+                "file": "picoCTF/GeneralSkills/16.-Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.-useless"
+              "title": "16.-Tab, Tab, Attack"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "picoCTF/GeneralSkills/15.-useless.md",
+    "picoCTF/GeneralSkills/16.-Tab, Tab, Attack.md",
+    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "files-practicas/practica.txt.md",
     "files-practicas/static",
     "files-practicas/ltdis.sh",
@@ -218,7 +219,6 @@
     "picoCTF/GeneralSkills/4.- Bases.md",
     "picoCTF/GeneralSkills/5.- First Grep.md",
     "picoCTF/GeneralSkills/6.- Obedient Cat.md",
-    "picoCTF/GeneralSkills/7.- whats a net cat.md",
     "Pasted image 20260206141809.png",
     "picoCTF/GeneralSkills",
     "Untitled.base",
