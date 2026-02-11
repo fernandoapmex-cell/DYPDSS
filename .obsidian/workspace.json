@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"files-practicas/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "467cc3abc59794a0",
+  "active": "4f8a4c63e9c2ca63",
   "lastOpenFiles": [
+    "files-practicas/static",
+    "files-practicas/ltdis.sh",
+    "files-practicas",
     "Pasted image 20260206141220.png",
     "picoCTF/GeneralSkills/13.- Wave a flag.md",
     "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
