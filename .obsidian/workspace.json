@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/Level 14 a Level 15.md",
+                "file": "bandit/Level 15 a Level 16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 14 a Level 15"
+              "title": "Level 15 a Level 16"
             }
           }
         ]
@@ -183,10 +183,10 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
+    "bandit/Level 14 a Level 15.md",
     "bandit/Level 15 a Level 16.md",
     "bandit/Level 13 a Level 14.md",
     "bandit/Level 12 a Level 13.md",
-    "bandit/Level 14 a Level 15.md",
     "Level 13 a Level 14.md",
     "Level 13 a Level 14 1.md",
     "picoCTF/GeneralSkills/20.- First Find.md",
