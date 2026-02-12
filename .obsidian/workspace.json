@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/Level 11 a Level 12.md",
+                "file": "bandit/Level 12 a Level 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 11 a Level 12"
+              "title": "Level 12 a Level 13"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
-    "bandit/Level 10 a Level 11.md",
     "bandit/Level 11 a Level 12.md",
+    "bandit/Level 12 a Level 13.md",
+    "Pasted image 20260211224103.png",
+    "bandit/Level 10 a Level 11.md",
     "bandit/Level 9 → Level 10.md",
     "picoCTF/GeneralSkills/20.- First Find.md",
     "picoCTF/GeneralSkills/19.- Big zip.md",
@@ -217,7 +219,6 @@
     "picoCTF/GeneralSkills/3.- Warmed Up.md",
     "picoCTF/GeneralSkills/2.- 2Warm.md",
     "bandit/Level 8 → Level 9.md",
-    "bandit/Level 7 → Level 8.md",
     "bandit",
     "Pasted image 20260206145407.png",
     "Pasted image 20260206141220.png",
