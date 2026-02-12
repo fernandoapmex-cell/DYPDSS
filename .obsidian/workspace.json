@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/Level 13 a Level 14.md",
+                "file": "picoCTF/GeneralSkills/20.- First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level 13 a Level 14"
+              "title": "20.- First Find"
             }
           }
         ]
@@ -177,9 +177,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2e63d0a11fcb6ac8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20260211224103.png",
+    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
+    "14.- Static ain't always noise.md",
+    "14.- Static ain't always noise 1.md",
+    "bandit/Level 13 a Level 14.md",
+    "bandit/Level 12 a Level 13.md"
+  ]
 }
