@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"files-practicas/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -174,53 +174,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "467cc3abc59794a0",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/18.-Repetitions.md",
+    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "picoCTF/GeneralSkills/19.- Big zip.md",
-    "Pasted image 20260211142458.png",
+    "picoCTF/GeneralSkills/18.-Repetitions.md",
     "picoCTF/GeneralSkills/17.- Magikarp Ground Mission.md",
     "picoCTF/GeneralSkills/16.-Tab, Tab, Attack.md",
     "picoCTF/GeneralSkills/15.-useless.md",
-    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
-    "files-practicas/practica.txt.md",
     "files-practicas/static",
     "files-practicas/ltdis.sh",
     "files-practicas",
-    "Pasted image 20260206141220.png",
-    "picoCTF/GeneralSkills/13.- Wave a flag.md",
-    "picoCTF/GeneralSkills/10.- Nice netcat....md",
+    "Pasted image 20260211142458.png",
     "picoCTF/GeneralSkills/12.- strings it.md",
-    "picoCTF/GeneralSkills/11.- Based.md",
+    "picoCTF/GeneralSkills/13.- Wave a flag.md",
+    "Pasted image 20260206141809.png",
     "Pasted image 20260210195001.png",
+    "picoCTF/GeneralSkills/11.- Based.md",
+    "picoCTF/GeneralSkills/4.- Bases.md",
+    "Plantilla.md",
+    "README.md",
+    "picoCTF/GeneralSkills/10.- Nice netcat....md",
+    "picoCTF/GeneralSkills/9.- Glitch Cat.md",
+    "picoCTF/GeneralSkills/8.- plumbing.md",
+    "picoCTF/GeneralSkills/7.- whats a net cat.md",
+    "picoCTF/GeneralSkills/6.- Obedient Cat.md",
+    "picoCTF/GeneralSkills/5.- First Grep.md",
+    "picoCTF/GeneralSkills/3.- Warmed Up.md",
+    "picoCTF/GeneralSkills/2.- 2Warm.md",
     "bandit/Level 9 → Level 10.md",
     "bandit/Level 8 → Level 9.md",
     "bandit/Level 7 → Level 8.md",
     "bandit/Level 6 → Level 7.md",
     "bandit/Level 5 → Level 6.md",
     "bandit/Level 4 → Level 5.md",
-    "bandit/Level 0.md",
-    "bandit/Level 3 → Level 4.md",
-    "bandit/Level 2 → Level 3.md",
-    "README.md",
-    "bandit/Level 1 → Level 2.md",
-    "bandit/Level 0 → Level 1.md",
-    "Plantilla.md",
     "bandit",
     "Pasted image 20260206145407.png",
-    "picoCTF/GeneralSkills/9.- Glitch Cat.md",
-    "picoCTF/GeneralSkills/8.- plumbing.md",
-    "Pasted image 20260206141809.png",
+    "Pasted image 20260206141220.png",
     "picoCTF/GeneralSkills",
     "Untitled.base",
     "picoCTF/General Skills",
