@@ -1,0 +1,10 @@
+# Claves privadas
+*.key
+*.pem
+
+# Variables de entorno
+.env
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/cache
