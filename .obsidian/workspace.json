@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/22.- runme.py.md",
+                "file": "picoCTF/GeneralSkills/Codebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22.- runme.py"
+              "title": "Codebook"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/21.-Super SSH.md",
     "picoCTF/GeneralSkills/22.- runme.py.md",
+    "picoCTF/GeneralSkills/Codebook.md",
+    "picoCTF/GeneralSkills/21.-Super SSH.md",
     "conflict-files-obsidian-git.md",
     "bandit/Level 15 a Level 16.md",
     "bandit/Level 14 a Level 15.md",
