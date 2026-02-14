@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/27.-PW Crack 1.md",
+                "file": "picoCTF/GeneralSkills/30.- Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27.-PW Crack 1"
+              "title": "30.- Serpentine"
             }
           }
         ]
@@ -183,8 +183,12 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/26.-fixme2.py.md",
-    "picoCTF/GeneralSkills/27.-PW Crack 1.md",
+    "picoCTF/GeneralSkills/29.- PW Crack 3.md",
+    "picoCTF/GeneralSkills/30.- Serpentine.md",
+    "picoCTF/GeneralSkills/28.- PW Crack 2.md",
+    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
+    "picoCTF/GeneralSkills/27.- PW Crack 1.md",
+    "picoCTF/GeneralSkills/26.- fixme2.py.md",
     "picoCTF/GeneralSkills/25.- fixme1.py.md",
     "picoCTF/GeneralSkills/24.- convertme.py.md",
     "picoCTF/GeneralSkills/23.- Codebook.md",
@@ -199,7 +203,6 @@
     "Level 13 a Level 14 1.md",
     "picoCTF/GeneralSkills/20.- First Find.md",
     "Pasted image 20260211224103.png",
-    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "14.- Static ain't always noise.md",
     "14.- Static ain't always noise 1.md"
   ]
