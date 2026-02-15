@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/31.- permissions.md",
+                "file": "picoCTF/GeneralSkills/32.- special.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31.- permissions"
+              "title": "32.- special"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/30.- Serpentine.md",
+    "picoCTF/GeneralSkills/32.- chrono.md",
+    "picoCTF/GeneralSkills/32.- special.md",
+    "Pasted image 20260206141220.png",
     "picoCTF/GeneralSkills/31.- permissions.md",
+    "picoCTF/GeneralSkills/30.- Serpentine.md",
     "picoCTF/GeneralSkills/29.- PW Crack 3.md",
     "picoCTF/GeneralSkills/28.- PW Crack 2.md",
     "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
