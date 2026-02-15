@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/34.- time machine.md",
+                "file": "picoCTF/GeneralSkills/35.- blame game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34.- time machine"
+              "title": "35.- blame game"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/33.- Commitment Issues.md",
     "picoCTF/GeneralSkills/34.- time machine.md",
+    "picoCTF/GeneralSkills/35.- blame game.md",
+    "picoCTF/GeneralSkills/33.- Commitment Issues.md",
     "picoCTF/GeneralSkills/32.- special.md",
     "picoCTF/GeneralSkills/32.- chrono.md",
     "Pasted image 20260206141220.png",
@@ -209,7 +210,6 @@
     "Level 13 a Level 14 1.md",
     "picoCTF/GeneralSkills/20.- First Find.md",
     "Pasted image 20260211224103.png",
-    "14.- Static ain't always noise.md",
-    "14.- Static ain't always noise 1.md"
+    "14.- Static ain't always noise.md"
   ]
 }
