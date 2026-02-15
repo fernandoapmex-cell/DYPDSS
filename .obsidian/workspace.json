@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/39.- binhexa.md",
+                "file": "picoCTF/GeneralSkills/40.- ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39.- binhexa"
+              "title": "40.- ASCII Numbers"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/38.-binary search.md",
+    "Pasted image 20260215001626.png",
     "picoCTF/GeneralSkills/39.- binhexa.md",
+    "picoCTF/GeneralSkills/40.- ASCII Numbers.md",
+    "picoCTF/GeneralSkills/38.-binary search.md",
     "picoCTF/GeneralSkills/37.- collaborative development.md",
     "picoCTF/GeneralSkills/36.- blame game.md",
     "picoCTF/GeneralSkills/35.- time machine.md",
@@ -208,8 +210,6 @@
     "bandit/Level 15 a Level 16.md",
     "bandit/Level 14 a Level 15.md",
     "bandit/Level 13 a Level 14.md",
-    "bandit/Level 12 a Level 13.md",
-    "Level 13 a Level 14.md",
     "Pasted image 20260211224103.png"
   ]
 }
