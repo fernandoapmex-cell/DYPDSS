@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/35.- blame game.md",
+                "file": "picoCTF/GeneralSkills/36.- collaborative development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "35.- blame game"
+              "title": "36.- collaborative development"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/34.- time machine.md",
     "picoCTF/GeneralSkills/35.- blame game.md",
+    "picoCTF/GeneralSkills/36.- collaborative development.md",
+    "picoCTF/GeneralSkills/34.- time machine.md",
     "picoCTF/GeneralSkills/33.- Commitment Issues.md",
     "picoCTF/GeneralSkills/32.- special.md",
     "picoCTF/GeneralSkills/32.- chrono.md",
@@ -209,7 +210,6 @@
     "Level 13 a Level 14.md",
     "Level 13 a Level 14 1.md",
     "picoCTF/GeneralSkills/20.- First Find.md",
-    "Pasted image 20260211224103.png",
-    "14.- Static ain't always noise.md"
+    "Pasted image 20260211224103.png"
   ]
 }
