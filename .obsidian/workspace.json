@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/44.- dont-use-client-side.md",
+                "file": "picoCTF/GeneralSkills/45.- picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "44.- dont-use-client-side"
+              "title": "45.- picobrowser"
             }
           }
         ]
@@ -186,9 +186,11 @@
   },
   "active": "e9154435a5c43723",
   "lastOpenFiles": [
+    "Pasted image 20260220131149.png",
+    "picoCTF/GeneralSkills/44.- dont-use-client-side.md",
+    "picoCTF/GeneralSkills/45.- picobrowser.md",
     "Pasted image 20260220123323.png",
     "picoCTF/GeneralSkills/43.- logon.md",
-    "picoCTF/GeneralSkills/44.- dont-use-client-side.md",
     "picoCTF/GeneralSkills/42.- where are the robots.md",
     "picoCTF/GeneralSkills/41.- Insp3ct0r.md",
     "conflict-files-obsidian-git.md",
@@ -211,7 +213,6 @@
     "picoCTF/GeneralSkills/24.- convertme.py.md",
     "picoCTF/GeneralSkills/23.- Codebook.md",
     "picoCTF/GeneralSkills/22.- runme.py.md",
-    "picoCTF/GeneralSkills/21.-Super SSH.md",
     "Pasted image 20260215001626.png",
     "Pasted image 20260211224103.png",
     "Pasted image 20260211142458.png",
