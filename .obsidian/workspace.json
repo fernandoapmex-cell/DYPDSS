@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "660f343934e116ae",
+    "id": "b70e5893a7d946d3",
     "type": "split",
     "children": [
       {
-        "id": "4a029b8a407d3a35",
+        "id": "d7cf9a2dca0d5640",
         "type": "tabs",
         "children": [
           {
-            "id": "e9154435a5c43723",
+            "id": "2e63d0a11fcb6ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/46.- Client-side-again.md",
+                "file": "picoCTF/GeneralSkills/49.- Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46.- Client-side-again"
+              "title": "49.- Scavenger Hunt"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "212291ed7df8ea9d",
+    "id": "7bc45f207fa59c8f",
     "type": "split",
     "children": [
       {
-        "id": "6b2cb7d953b7cd8e",
+        "id": "30256e0bbb9fa443",
         "type": "tabs",
         "children": [
           {
-            "id": "4f8a4c63e9c2ca63",
+            "id": "1e6f3973f16989b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "c40ad9437b3249e8",
+            "id": "52223e25abd0bfec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"files-practicas/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +61,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "bf33de5015316402",
+            "id": "cc89d679701d7d9a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "4f56096051a8a28a",
+    "id": "8b7f437d6c7e0c5b",
     "type": "split",
     "children": [
       {
-        "id": "2e4786d3d5fd251b",
+        "id": "fea091ad444728d0",
         "type": "tabs",
         "children": [
           {
-            "id": "5626e9dc20fc14e3",
+            "id": "bc941f5a556e04d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "0c785f7151c33228",
+            "id": "81506ccdc8898524",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "d372358beca08148",
+            "id": "9b0d54c0b84c06c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +135,7 @@
             }
           },
           {
-            "id": "ecc7702723ea1efe",
+            "id": "b23f4afeb5adaf9d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +149,17 @@
             }
           },
           {
-            "id": "ca5c1709bdf5c826",
+            "id": "c384be16da818575",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -174,32 +171,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9154435a5c43723",
+  "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "Pasted image 20260220140135.png",
-    "picoCTF/GeneralSkills/4.- Bases.md",
+    "picoCTF/GeneralSkills/48.- GET aHEAD.md",
+    "picoCTF/GeneralSkills/49.- Scavenger Hunt.md",
+    "Pasted image 20260225162515.png",
+    "picoCTF/GeneralSkills/47.- Cookies.md",
+    "bandit/Level 14 a Level 15.md",
+    "Pasted image 20260225125819.png",
+    "picoCTF/GeneralSkills/40.- ASCII Numbers.md",
     "picoCTF/GeneralSkills/46.- Client-side-again.md",
-    "Pasted image 20260210195001.png",
-    "picoCTF/GeneralSkills/Sin nombre",
     "picoCTF/GeneralSkills/45.- picobrowser.md",
-    "Pasted image 20260220131149.png",
     "picoCTF/GeneralSkills/44.- dont-use-client-side.md",
-    "Pasted image 20260220123323.png",
     "picoCTF/GeneralSkills/43.- logon.md",
     "picoCTF/GeneralSkills/42.- where are the robots.md",
     "picoCTF/GeneralSkills/41.- Insp3ct0r.md",
-    "conflict-files-obsidian-git.md",
-    "picoCTF/GeneralSkills/40.- ASCII Numbers.md",
+    "Pasted image 20260220140135.png",
+    "Pasted image 20260220131149.png",
+    "Pasted image 20260220123323.png",
+    "Pasted image 20260215001626.png",
     "picoCTF/GeneralSkills/39.- binhexa.md",
     "picoCTF/GeneralSkills/38.-binary search.md",
     "picoCTF/GeneralSkills/37.- collaborative development.md",
@@ -208,27 +208,14 @@
     "picoCTF/GeneralSkills/34.- Commitment Issues.md",
     "picoCTF/GeneralSkills/33.- special.md",
     "picoCTF/GeneralSkills/32.- chrono.md",
+    "Pasted image 20260206141220.png",
     "picoCTF/GeneralSkills/31.- permissions.md",
     "picoCTF/GeneralSkills/30.- Serpentine.md",
     "picoCTF/GeneralSkills/29.- PW Crack 3.md",
     "picoCTF/GeneralSkills/28.- PW Crack 2.md",
+    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "picoCTF/GeneralSkills/27.- PW Crack 1.md",
     "picoCTF/GeneralSkills/26.- fixme2.py.md",
-    "picoCTF/GeneralSkills/25.- fixme1.py.md",
-    "picoCTF/GeneralSkills/24.- convertme.py.md",
-    "Pasted image 20260215001626.png",
-    "Pasted image 20260211224103.png",
-    "Pasted image 20260211142458.png",
-    "files-practicas/static",
-    "files-practicas/ltdis.sh",
-    "files-practicas",
-    "Pasted image 20260206141220.png",
-    "bandit",
-    "Pasted image 20260206145407.png",
-    "Pasted image 20260206141809.png",
-    "picoCTF/GeneralSkills",
-    "Untitled.base",
-    "picoCTF/General Skills",
-    "picoCTF"
+    "Pasted image 20260211224103.png"
   ]
 }
