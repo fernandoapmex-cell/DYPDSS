@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -171,18 +171,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
+    "Pasted image 20260228152824.png",
     "picoCTF/GeneralSkills/50.- Irish-Name-Repo 1.md",
     "picoCTF/GeneralSkills/51.- More SQLi.md",
     "picoCTF/GeneralSkills/49.- Scavenger Hunt.md",
@@ -215,7 +216,6 @@
     "picoCTF/GeneralSkills/30.- Serpentine.md",
     "picoCTF/GeneralSkills/29.- PW Crack 3.md",
     "picoCTF/GeneralSkills/28.- PW Crack 2.md",
-    "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
     "Pasted image 20260211224103.png"
   ]
 }
