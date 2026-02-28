@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/GeneralSkills/49.- Scavenger Hunt.md",
+                "file": "picoCTF/GeneralSkills/51.- More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49.- Scavenger Hunt"
+              "title": "51.- More SQLi"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "2e63d0a11fcb6ac8",
   "lastOpenFiles": [
-    "picoCTF/GeneralSkills/48.- GET aHEAD.md",
+    "picoCTF/GeneralSkills/50.- Irish-Name-Repo 1.md",
+    "picoCTF/GeneralSkills/51.- More SQLi.md",
     "picoCTF/GeneralSkills/49.- Scavenger Hunt.md",
+    "picoCTF/GeneralSkills/48.- GET aHEAD.md",
     "Pasted image 20260225162515.png",
     "picoCTF/GeneralSkills/47.- Cookies.md",
     "bandit/Level 14 a Level 15.md",
@@ -214,8 +216,6 @@
     "picoCTF/GeneralSkills/29.- PW Crack 3.md",
     "picoCTF/GeneralSkills/28.- PW Crack 2.md",
     "picoCTF/GeneralSkills/14.- Static ain't always noise.md",
-    "picoCTF/GeneralSkills/27.- PW Crack 1.md",
-    "picoCTF/GeneralSkills/26.- fixme2.py.md",
     "Pasted image 20260211224103.png"
   ]
 }
